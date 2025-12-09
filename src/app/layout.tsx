@@ -15,9 +15,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Next js template",
-  description:
-    "a template for next js with shadcn ui, tailwind css, eslint, prettier, husky, typescript",
+  title: "Hadassah | Digital Stories",
+  description: "A digital portfolio exploring the abstract and functional.",
 };
 
 export default function RootLayout({
