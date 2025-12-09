@@ -1,0 +1,7 @@
+[
+  {
+    "code": "commitlint",
+    "command": "commitlint --from HEAD~1",
+    "description": "Check if the last commit message follows conventional commits."
+  }
+]
